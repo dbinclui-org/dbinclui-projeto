@@ -58,6 +58,8 @@ Utilizaremos Node.js com Typescript para o backend da aplicação.
 | Express Validator 	| https://express-validator.github.io/docs/      	| https://www.npmjs.com/package/express-validator 	|
 | JWT               	| https://jwt.io/introduction                    	| https://www.npmjs.com/package/jsonwebtoken      	|
 
+---
+
 ## Versionamento
 
 ### Clone o repositório
